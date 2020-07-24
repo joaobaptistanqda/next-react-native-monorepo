@@ -1,0 +1,9 @@
+{
+    "name": "@mono/hooks",
+    "main": "index.js",
+    "private": true,
+    "version": "0.0.1",
+    "peerDependencies": {
+        "react": "*"
+    }
+}
